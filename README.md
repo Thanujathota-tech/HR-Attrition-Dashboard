@@ -66,7 +66,7 @@ The dataset contains employee-level data including:
 
 ![Drill Through View](https://github.com/Thanujathota-tech/HR-Attrition-Dashboard/blob/main/HR%20Attrition%20%26%20Workforce%20Analytics/Dashboard_2.png)
 
-![Department Details View](PASTE_IMAGE_LINK_HERE)
+![Department Details View](https://github.com/Thanujathota-tech/HR-Attrition-Dashboard/blob/main/HR%20Attrition%20%26%20Workforce%20Analytics/Department_details_Dashboard_3.png)
 
 ---
 
