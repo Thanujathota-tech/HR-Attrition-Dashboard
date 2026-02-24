@@ -70,7 +70,7 @@ The dataset contains employee-level data including:
 
 ---
 
-## 🎯 Project Outcome
+## Project Outcome
 
 This dashboard enables HR teams to:
 - Identify high-risk employee groups
@@ -80,6 +80,6 @@ This dashboard enables HR teams to:
 
 ---
 
-### 📌 Author
-Devi  
+### Author
+Thanuja Thota  
 Aspiring Data Analyst | Power BI Enthusiast
