@@ -1,94 +1,85 @@
-HR Attrition Dashboard – Power BI Project
-Project Overview
+# HR Attrition Dashboard – Power BI Project
 
-This project presents an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition trends and identify high-risk segments across departments.
+## Project Overview
+This Power BI dashboard analyzes employee attrition trends, identifies high-risk employee segments, and provides drill-through capability for department-level insights.  
+The dashboard helps HR teams understand attrition patterns and make data-driven retention decisions.
 
-The dashboard helps HR teams understand attrition patterns, salary impact, tenure influence, and department-level risk distribution to support data-driven retention strategies.
+---
 
-Business Objectives
+## Dashboard Features
 
-Monitor overall attrition rate
+- ✔ Total Employees KPI
+- ✔ Active Employees KPI
+- ✔ Employees Left KPI
+- ✔ Attrition Rate % KPI
+- ✔ Average Salary Analysis
+- ✔ Employee Count Trend Over Time
+- ✔ Attrition Trend Over Time
+- ✔ Attrition Rate % by Department
+- ✔ Attrition by Salary Band
+- ✔ Attrition by Tenure Band
+- ✔ Drill-through to Department Details Page
+- ✔ Attrition Risk Segmentation (Low / Medium / High)
 
-Identify departments with high employee turnover
+---
 
-Analyze attrition by salary band and tenure band
+## Key Business Insights
 
-Track employee count and attrition trends over time
+- Operations department shows the highest attrition (~21.5%)
+- Employees with 0–2 years tenure have the highest attrition (~49%)
+- Low salary band has higher attrition compared to high salary band
+- Majority of employees fall under Medium Risk category
+- Attrition trend fluctuates over the years, indicating retention challenges
 
-Segment employees into Low, Medium, and High Risk categories
+---
 
-Enable drill-through analysis for department-level deep insights
+## Tools & Skills Used
 
-Dashboard Features
+- Power BI Desktop
+- DAX (Attrition Risk Segmentation Logic)
+- Data Modeling
+- Drill-through Functionality
+- Interactive Slicers (Year, Gender, Department, City)
+- KPI Card Design
+- Trend Analysis
 
-✔ KPI Cards
+---
 
-Total Employees
+## Dataset Information
 
-Active Employees
+The dataset contains employee-level data including:
+- Employee ID
+- Department
+- Job Role
+- Salary Band
+- Tenure
+- Attrition Status
+- Year of Data
 
-Employees Left
+---
 
-Attrition Rate %
+## Dashboard Preview
 
-Average Salary
+(Add your uploaded image links below)
 
-✔ Trend Analysis
+![Main Dashboard](PASTE_IMAGE_LINK_HERE)
 
-Employee Count Trend Over Time
+![Drill Through View](PASTE_IMAGE_LINK_HERE)
 
-Attrition Trend Over Time
+![Department Details View](PASTE_IMAGE_LINK_HERE)
 
-✔ Department Analysis
+---
 
-Attrition Rate % by Department
+## 🎯 Project Outcome
 
-Total Employees by Department
+This dashboard enables HR teams to:
+- Identify high-risk employee groups
+- Monitor attrition trends over time
+- Analyze salary and tenure impact on attrition
+- Make informed workforce planning decisions
 
-✔ Segmentation Analysis
+---
 
-Attrition by Salary Band
-
-Attrition by Tenure Band
-
-Attrition Risk Category (Low / Medium / High)
-
-✔ Advanced Feature
-
-Drill-through page for Department Details
-
-Key Insights
-
-Operations department shows the highest attrition (~21.5%)
-
-Employees with 0–2 years tenure have the highest attrition (~49%)
-
-Low salary band employees show higher attrition compared to high salary band
-
-Majority of employees fall under the Medium Risk category
-
-Attrition rate fluctuates yearly, indicating need for retention strategy planning
-
-🛠 Tools & Technologies Used
-
-Power BI Desktop
-
-DAX (for Attrition Risk Segmentation Logic)
-
-Data Modeling
-
-Drill-through Functionality
-
-Interactive Slicers
-
-KPI & Dashboard Design
-
-Dashboard Preview
-![Main Dashboard]()
-![Drill Through View](PASTE_IMAGE_LINK)
-![Department Details](PASTE_IMAGE_LINK)
-
-
-![Main Dashboard](PASTE_IMAGE_LINK)
-![Drill Through View](PASTE_IMAGE_LINK)
-![Department Details](PASTE_IMAGE_LINK)
+### 📌 Author
+Devi  
+Aspiring Data Analyst | Power BI Enthusiast
